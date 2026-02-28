@@ -9,7 +9,6 @@ redirect_from:
 
 I'm an x year undergraduate student from [School of EECSl(https://eecs.pku.edu.cn/), Peking University(https: /www.pku.edu.cn/). My research interest includes x, y, and z.
 I am very fortunate to be advised by [Prof. XXX] (https:/www.XXX.com/) of XXX Lab from [School of Computer Sciencel(https:/cs.pku.edu.cn/), Peking University. l was advised by [Prof. XXX] (https:/XXX.pku.edu.cn/) from [School of ComputerSciencel(https://cs.pku.edu.cn/),Peking University.
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_ Vitae.pdf).
 
 A data-driven personal website
 ======
